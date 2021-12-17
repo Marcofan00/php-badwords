@@ -15,6 +15,5 @@
 
     <p><?php echo "la lunghezza del paragrafo  è: " . strlen($a) ?> </p>
 </body>
-</html><?php
+</html>
 
-?>
